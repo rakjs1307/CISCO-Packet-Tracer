@@ -1,5 +1,5 @@
 # CISCO-Packet-Tracer
-1.homeNetwork:
+**1.homeNetwork:**
                 *This is simple home network connection
                 *Devices - Wireless Router,PC,Laptop,Web Camara
                 *Observations - </By default the Laptop has wired ethernet,make it wireless in physical configuration/>
